@@ -1,4 +1,4 @@
 # FuturesCalculator
 A Calculator of Future of Hoo
 
-合约计算器，适用于虎符平台
+btc合约计算器，适用于虎符平台
